@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>BOP: 403 Forbidden</title>
+    <style>
+        html {
+            height: 100%;
+        }
+        body {
+            font-family: 'segeo-ui', arial, sans-serif;
+            height: 100%;
+            margin: 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background: #f2f2f2; /* Old browsers */
+            background: -moz-linear-gradient(top, rgba(215,226,232,1) 0%, rgba(242,242,242,1) 32%); /* FF3.6-15 */
+            background: -webkit-linear-gradient(top, rgba(215,226,232,1) 0%,rgba(242,242,242,1) 32%); /* Chrome10-25,Safari5.1-6 */
+            background: linear-gradient(to bottom, rgba(215,226,232,1) 0%,rgba(242,242,242,1) 32%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d7e2e8', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
+            font-family:arial;            
+        }
+        #container{ 
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+        }
+        #topbar{
+            text-align:left;
+        }
+        #contents{           
+            margin-top:3rem;
+            text-align:center;
+        }
+        #rounded{
+            width:20rem;
+            height:20rem;
+            border-radius:50%;
+            display:inline-block;
+            margin:30px auto;
+            background-color:#173c5d; /* #92a6b7;*/
+            position:relative;
+            color:#fff;
+            /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#43596b+1,173c5d+97 */
+            background: rgb(67,89,107); /* Old browsers */
+            background: -moz-radial-gradient(center, ellipse cover, rgba(67,89,107,1) 1%, rgba(23,60,93,1) 97%); /* FF3.6-15 */
+            background: -webkit-radial-gradient(center, ellipse cover, rgba(67,89,107,1) 1%,rgba(23,60,93,1) 97%); /* Chrome10-25,Safari5.1-6 */
+            background: radial-gradient(ellipse at center, rgba(67,89,107,1) 1%,rgba(23,60,93,1) 97%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+            filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43596b', endColorstr='#173c5d',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */            
+        }        
+        h1{
+            font-weight:normal;
+            font-size: 6em; 
+            margin:4rem 0 0 0;
+            padding:0px;
+            position:absolute;
+            width:20rem;
+            top:0;
+        }
+        @keyframes grow {
+            from {font-size:1rem;}
+            to {font-size:2.8rem;}
+        }
+        h2{
+            display:block;
+            letter-spacing:normal;
+            font-size:2.8rem;
+            position:absolute;
+            bottom:0;
+            margin-bottom:6rem;
+            width:20rem;            
+            animation-name: grow;
+            animation-duration: 1s;
+        }
+        @media(max-width:540px){
+            #contents{           
+                margin-top:1.5rem;
+            }
+            @keyframes grow {
+                from {font-size:1.0rem;}
+                to {font-size:1.5rem;}
+            }
+            #rounded{
+                width:12rem;
+                height:12rem;                
+            }
+            h1{
+                font-size:3em;
+                width:12rem;
+                margin-top:3rem;
+            }
+            h2{
+                font-size:1.5em;
+                width:12rem;
+                margin-bottom:3.4rem;
+            }
+            p{font-size:1.0em; padding: 3px;}
+        }
+        p{  
+            font-size:1.2rem;
+            padding:10px;     
+            text-align:center;
+            display:block;
+        }      
+        a{
+            color:#0082d5;
+            text-decoration:none;
+        }
+        a:hover{
+            text-decoration:underline;
+        }
+         
+    </style>
+</head>
+
+<body>
+    
+<div id="container">
+    <div id="contents">
+        <div id="rounded">
+            <h1>403 </h1>
+            <h2>Forbidden</h2>
+        </div>
+       <p class="details">The server responded with an error code indicating you don't have permission to access this resource.</p>
+        <!--Contact us for assistance-->
+    </div>    
+</div>
+        
+ 
+</body>
+</html>

@@ -1,0 +1,1356 @@
+{
+  "other": [
+    {
+      "date": "06/20/2020",
+      "homeConfinementTotal": "4,414",
+      "homeConfinementOverallTotal": "7,267",
+      "federalInmatePopulationTotal": "132,600",
+      "ccmFacilityPopulationTotal": "13,473",
+      "privateFacilityPopulationTotal": "15,555",
+      "bopStaff": "36,000"
+    }
+  ],
+  "rrcData": [
+    {
+      "id": "Seattle, WA",
+      "contractNum": "DJB200280",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Boston, MA",
+      "contractNum": "15BRRC20D00000046",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 4,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Greensboro, NC",
+      "contractNum": "additional_10",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 2,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Lexington, KY",
+      "contractNum": "additional_8",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Philadelphia, PA",
+      "contractNum": "15BRRC19D00000194",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 3,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Bronx, NY",
+      "contractNum": "additional_2",
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Rochester,NY",
+      "contractNum": "15BRRC19D00000218",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Dania, FL",
+      "contractNum": "15BRRC19D00000208",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Birmingham, AL",
+      "contractNum": "15BRRC19D00000207",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Chattanooga, TN",
+      "contractNum": "additional_24",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Tampa, FL",
+      "contractNum": "additional_18",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 3,
+      "inmatePositiveAmt": 2,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Minneapolis, MN",
+      "contractNum": "15BRRC20D00000275",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 10,
+      "inmatePositiveAmt": 4,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Indianapolis, IN",
+      "contractNum": "additional_16",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Chicago, IL",
+      "contractNum": "15BRRC18D00000091",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 7,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Grand Rapids, MI",
+      "contractNum": "15BRRC19D00000005",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 4,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Rapid City, SD",
+      "contractNum": "additional_11",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Metairie, LA",
+      "contractNum": "15BRRC18D00000020",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 2,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Chaparral, NM",
+      "contractNum": "additional_6",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Hutchins, TX",
+      "contractNum": "15BRRC19D00000185",
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 22,
+      "inmatePositiveAmt": 23,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "San Antonio, TX",
+      "contractNum": "additional_19",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Corpus Christi, TX",
+      "contractNum": "15BRRC19D00000161",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 11,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Houston, TX",
+      "contractNum": "DJB200242",
+      "inmateDeathAmt": 2,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 3,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Albuquerque, NM",
+      "contractNum": "additional_13",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 20,
+      "inmatePositiveAmt": 28,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Laredo, TX",
+      "contractNum": "additional_25",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 2,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Saint Louis, MO",
+      "contractNum": "DJB200282",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Farmington, MO",
+      "contractNum": "15BRRC19D00000148",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Des Moines, IA",
+      "contractNum": "additional_26",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Sioux City, IA",
+      "contractNum": "additional_22",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Topeka, KS",
+      "contractNum": "additional_27",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Toledo, OH",
+      "contractNum": "DJB200236",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Manchester, KY",
+      "contractNum": "additional_7",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 2,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Leavenworth, KS",
+      "contractNum": "15BRRC19D00000149",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 44,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Fargo, ND",
+      "contractNum": "additional_23",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Fargo, ND",
+      "contractNum": "additional_14",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Tucson, AZ",
+      "contractNum": "additional_29",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "San Diego, CA",
+      "contractNum": "additional_12",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Las Vegas, NV",
+      "contractNum": "additional_28",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 3,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "San Francisco, CA",
+      "contractNum": "additional_20",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 3,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Los Angeles, CA",
+      "contractNum": "additional_1",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Phoenix, AZ",
+      "contractNum": "DJB200252",
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Dublin, CA",
+      "contractNum": "additional_9",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Brawley, CA",
+      "contractNum": "additional_21",
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 2,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Oakland, CA",
+      "contractNum": "15BRRC20D00000011",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Atlanta, GA",
+      "contractNum": "additional_30",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 7,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Greenville, SC",
+      "contractNum": "DJB200296",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 3,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Brooklyn, NY",
+      "contractNum": "15BRRC19D00000249",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 3,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Albany, NY",
+      "contractNum": "additional_15",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Philadelphia, PA",
+      "contractNum": "15BRRC19D00000162",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 2,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Newark, NJ",
+      "contractNum": "15BRRC20D00000262",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "Manchester, NH",
+      "contractNum": "additional_4",
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 9,
+      "inmatePositiveAmt": 5,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    }
+  ],
+  "privateData": [
+    {
+      "id": "DRJ",
+      "inmateRecoveries": 1,
+      "inmateDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "GPC",
+      "inmateRecoveries": 85,
+      "inmateDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "MCA",
+      "inmateRecoveries": 10,
+      "inmateDeathAmt": 1,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "NLK",
+      "inmateRecoveries": 94,
+      "inmateDeathAmt": 2,
+      "inmatePositiveAmt": 12,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    },
+    {
+      "id": "RIV",
+      "inmateRecoveries": 20,
+      "inmateDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0
+    }
+  ],
+  "bopData": [
+    {
+      "id": "ALI",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 7,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 10
+    },
+    {
+      "id": "ALM",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "ALP",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "ATL",
+      "staffPositiveAmt": 6,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 2,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 14
+    },
+    {
+      "id": "BAS",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BEN",
+      "staffPositiveAmt": 4,
+      "staffRecoveries": 2,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 4
+    },
+    {
+      "id": "BIG",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BML",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BMM",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BMP",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BOP",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 2,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "BRO",
+      "staffPositiveAmt": 6,
+      "staffRecoveries": 34,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 3,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 8
+    },
+    {
+      "id": "BTF",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "BUF",
+      "staffPositiveAmt": 6,
+      "staffRecoveries": 10,
+      "staffDeathAmt": 1,
+      "inmatePositiveAmt": 612,
+      "inmateDeathAmt": 12,
+      "inmateRecoveries": 81
+    },
+    {
+      "id": "BUH",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 8,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 5,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "BUT",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 27,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 18,
+      "inmateDeathAmt": 9,
+      "inmateRecoveries": 191
+    },
+    {
+      "id": "CAA",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "CCC",
+      "staffPositiveAmt": 4,
+      "staffRecoveries": 26,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 8,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 140
+    },
+    {
+      "id": "CLP",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "COL",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 2,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "COM",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "COP",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "CRW",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "CUM",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 2,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 6
+    },
+    {
+      "id": "DAN",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 60,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 96
+    },
+    {
+      "id": "DEV",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 24,
+      "inmateDeathAmt": 2,
+      "inmateRecoveries": 30
+    },
+    {
+      "id": "DTH",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "DUB",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "ELK",
+      "staffPositiveAmt": 7,
+      "staffRecoveries": 46,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 74,
+      "inmateDeathAmt": 9,
+      "inmateRecoveries": 573
+    },
+    {
+      "id": "ENG",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 4,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "ERE",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "EST",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "FAI",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 2,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 95,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 2
+    },
+    {
+      "id": "FOM",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 5
+    },
+    {
+      "id": "FOR",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 3,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 148,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 545
+    },
+    {
+      "id": "FTD",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 5,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 14,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 28
+    },
+    {
+      "id": "FTW",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 29,
+      "inmateDeathAmt": 11,
+      "inmateRecoveries": 579
+    },
+    {
+      "id": "GIL",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 6
+    },
+    {
+      "id": "GRA",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "GRE",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "HAZ",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "HER",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "HOU",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 7,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "LAT",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 3,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "LEW",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "LEX",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 10,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 27,
+      "inmateDeathAmt": 6,
+      "inmateRecoveries": 227
+    },
+    {
+      "id": "LOF",
+      "staffPositiveAmt": 6,
+      "staffRecoveries": 12,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 2,
+      "inmateRecoveries": 875
+    },
+    {
+      "id": "LOM",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 21,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 10,
+      "inmateDeathAmt": 2,
+      "inmateRecoveries": 166
+    },
+    {
+      "id": "LOS",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "LVN",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 5,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MAR",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MCD",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MCR",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "MEM",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 6,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MIA",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MIL",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 56,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 7,
+      "inmateDeathAmt": 3,
+      "inmateRecoveries": 78
+    },
+    {
+      "id": "MIM",
+      "staffPositiveAmt": 12,
+      "staffRecoveries": 7,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 6,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MON",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "MXR",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "NER",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "NYM",
+      "staffPositiveAmt": 4,
+      "staffRecoveries": 41,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 4
+    },
+    {
+      "id": "OAD",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 4,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 6
+    },
+    {
+      "id": "OAK",
+      "staffPositiveAmt": 10,
+      "staffRecoveries": 10,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 30,
+      "inmateDeathAmt": 7,
+      "inmateRecoveries": 181
+    },
+    {
+      "id": "OKL",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 37,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 60
+    },
+    {
+      "id": "OTV",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 14,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 19,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 11
+    },
+    {
+      "id": "PET",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "PHL",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 3,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 1
+    },
+    {
+      "id": "PHX",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "POL",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "POM",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "RBK",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 9,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 4,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 11
+    },
+    {
+      "id": "RCH",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "SCR",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "SDC",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 5
+    },
+    {
+      "id": "SEA",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "SER",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "SPG",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "TAL",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "TCP",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "TDG",
+      "staffPositiveAmt": 4,
+      "staffRecoveries": 6,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 3,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "TEX",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 1,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 0,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "THP",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 3,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 2
+    },
+    {
+      "id": "TOM",
+      "staffPositiveAmt": 0,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 2,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "TRM",
+      "staffPositiveAmt": 3,
+      "staffRecoveries": 14,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 8,
+      "inmateDeathAmt": 9,
+      "inmateRecoveries": 674
+    },
+    {
+      "id": "VVM",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 0,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 2,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 0
+    },
+    {
+      "id": "YAM",
+      "staffPositiveAmt": 2,
+      "staffRecoveries": 9,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 0,
+      "inmateRecoveries": 6
+    },
+    {
+      "id": "YAP",
+      "staffPositiveAmt": 5,
+      "staffRecoveries": 9,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 9,
+      "inmateDeathAmt": 1,
+      "inmateRecoveries": 51
+    },
+    {
+      "id": "YAZ",
+      "staffPositiveAmt": 1,
+      "staffRecoveries": 7,
+      "staffDeathAmt": 0,
+      "inmatePositiveAmt": 1,
+      "inmateDeathAmt": 2,
+      "inmateRecoveries": 101
+    }
+  ]
+}
